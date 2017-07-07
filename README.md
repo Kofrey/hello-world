@@ -1,2 +1,3 @@
 # hello-world
-just repository
+It's just repository for something.
+I'll try to put here some intresting...
